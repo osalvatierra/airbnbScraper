@@ -12,6 +12,9 @@
   "type": "module",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "got-scraping": "^3.2.10"
+    "got-scraping": "^3.2.10",
+    "json2csv": "^5.0.7",
+    "node-fetch": "^3.2.10",
+    "pretty": "^2.0.0"
   }
 }
