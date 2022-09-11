@@ -1,0 +1,9 @@
+{
+	"id": "p4inNXZimKpa1lz",
+	"json": "{\"id\":\"p4inNXZimKpa1lz\",\"url\":\"https://www.goodreads.com/shelf/show/science-fiction\",\"loadedUrl\":\"https://www.goodreads.com/shelf/show/science-fiction\",\"uniqueKey\":\"https://www.goodreads.com/shelf/show/science-fiction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-11T23:35:34.122Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.goodreads.com/shelf/show/science-fiction",
+	"url": "https://www.goodreads.com/shelf/show/science-fiction"
+}
